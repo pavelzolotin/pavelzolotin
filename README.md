@@ -3,11 +3,14 @@
 
 <p align="center">
 For more than 3 years, I am engaged in web development.
-
+</p>
+<p align="center">
 I sincerely like to take up new tasks and understand them.
-
+</p>
+<p align="center">
 I get great pleasure from writing code and watching the results of its implementation.
-
+</p>
+<p align="center">
 I try to keep moving forward and don't stop at what I have learned.
 </p>
 
