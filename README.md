@@ -1,19 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Pavel</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
-
-<p align="center">
-For more than 3 years, I am engaged in web development.
-</p>
-<p align="center">
-I sincerely like to take up new tasks and understand them.
-</p>
-<p align="center">
-I get great pleasure from writing code and watching the results of its implementation.
-</p>
-<p align="center">
-I try to keep moving forward and don't stop at what I have learned.
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
